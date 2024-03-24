@@ -1,0 +1,33 @@
+.customnav{
+   width: 100%;
+   position: sticky; 
+   top: 0;
+   z-index: 9;
+
+}
+.navbar-brand{
+    font-size: 2vw;
+}
+#search{
+    width: 40vw;
+    height: 6vh;
+    margin-left: 15px; 
+    padding-left: 0px;
+    margin-top: 3px; 
+    border-bottom-left-radius: 15px; 
+    border-top-left-radius: 15px;
+}
+#button{
+    height: 6vh;  
+    margin-left: -14px; 
+    margin-top:-5px; 
+    border-top-right-radius: 15px; 
+    border-bottom-right-radius: 15px; 
+    padding-top: 2px;
+}
+#logout{
+    color: white;
+    text-decoration: none;
+    
+}
+
